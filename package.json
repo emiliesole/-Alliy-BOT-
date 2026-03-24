@@ -1,7 +1,7 @@
 {
-    "name": "Alliy BOT",
+    "name": "alliy-bot",
     "version": "1.2",
-    "description": "A Simple Whatsapp Bot made by Alliy",
+    "description": "Alliy BOT 🐱‍🏍 - Custom WhatsApp Bot",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -9,7 +9,8 @@
     },
     "author": "Alliy",
     "license": "MIT",
-    "dependencies": {
+    ...
+}
         "@adiwajshing/keyed-db": "^0.2.4",
         "@colors/colors": "^1.5.0",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
